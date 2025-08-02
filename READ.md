@@ -1,6 +1,9 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs Dashboard : Power BI
 
-![Dashboard Page 1](/Images/Djd%201.png)
+![Dashboard Page 1](/Images/PBD-1.png)
+
+➡️ Open the download link and click on **"View Raw"** to download Data Jobs Dashboard.pbix : 
+🔗 [**Download Link**][def]
 
 ## Introduction
 
@@ -14,19 +17,32 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 - **Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
 - **KPI Indicators & Tables:** Used **Cards** to display key metrices and **Tables** to provide granular, sortable data.
 - **Dashboard Design:** Designed an intutive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
-- ** Interactive Reporting:**
+- **Interactive Reporting:**
   -  **Slicers:** To dynamically filter the report by Job Title.
   -  **Buttons & Bookmarks:** To create a seamless navigation experience.
   -  **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
 
-  ## Dashboard Overiew
+## Dashboard Overiew
 
-  ### Page 1: High-Level Market Value
+  *This report is plit into two distinct pages to provide both a high-level summary and a detailed analysis.*
 
-![Dashboard Page 1](/Images/Djd%202.png)
+### Page 1: High-Level Market Value
+
+![Data Jobs Dashboard Page 1](/Images/PBD-1.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+
+### Page 2: Job Title Drill Through
+
+![Data Jobs Dashbaord Page 2](/Images/PBD-2.png)
+
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+
 
 ## Conclusion
 
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+
+
+[def]: https://github.com/Visuboyy/Power_BI_Dashboards/blob/main/Data%20Jobs%20Dashboard.pbix
