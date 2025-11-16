@@ -6,7 +6,7 @@ Data Nerds! This repository is a collection of Power BI dashboards I've develope
 
 Explore the dashboards below. Each has its own dedicated README with more details on the build precess and specific features.
 
-## 📈 Data Jobs Dashboard (V1 = Comprehensive Exploration)
+## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
 ![Data Jobs DB GIF](/Images/PBD-1.png)
 
