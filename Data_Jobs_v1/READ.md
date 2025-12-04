@@ -3,7 +3,9 @@
 ![Dashboard Page 1](/Images/PBD-1.png)
 
 ➡️ Open the download link and click on **"View Raw"** to download Data Jobs Dashboard.pbix : 
-🔗 [**Download Link**][def]
+🔗 
+[**Download Link**](https://github.com/Visuboyy/Power_BI_Dashboards/blob/main/Data_Jobs_v1/Data%20Jobs%20Dashboard.pbix)
+
 
 ## Introduction
 
